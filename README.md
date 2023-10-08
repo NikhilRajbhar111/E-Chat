@@ -57,10 +57,10 @@ A Flutter-based chat application that allows users to register, log in, and exch
 
 ## Screenshots
 
-![Chat Preview Screenshot 1](assets/Previews/image1.jpg)
-![Chat Preview Screenshot 2](assets/Previews/image2.jpg)
-![Chat Preview Screenshot 3](assets/Previews/image3.jpg)
-![Chat Preview Screenshot 4](assets/Previews/image4.jpg)
+![ Preview Screenshot 1 ](assets/Previews/image1.jpg)
+![ Preview Screenshot 2 ](assets/Previews/image2.jpg)
+![ Preview Screenshot 3 ](assets/Previews/image3.jpg)
+![ Preview Screenshot 4 ](assets/Previews/image4.jpg)
 
 
 ---
