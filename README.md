@@ -52,8 +52,7 @@ A Flutter-based chat application that allows users to register, log in, and exch
 ## Usage
 
 1. Register a new account or log in using your credentials.
-2. Start chatting with other users by selecting a contact or entering their email address.
-3. Send and receive real-time messages.
+2. Send and receive real-time messages.
 
 ## Screenshots
 
